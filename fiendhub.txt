@@ -1,0 +1,4 @@
+-- paste your code for fiend hub here, NOTE That the name for the new file must have an extension that is '.txt' or else execution wont work :/
+
+- when your done pasting and naming, scroll down and you should find commit file at the bottom
+- ill do it now
